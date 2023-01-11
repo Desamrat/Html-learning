@@ -1,0 +1,21 @@
+body{
+    background-color:aqua;
+}
+#cc{
+    font-size: 30px;
+}
+/* h1{
+    color: blue;
+    font-family: verdana;
+    font-size:300%;
+}
+p{
+    color: #ff0000;
+    font-family: courier;
+    font-size:150%;
+}  */
+p{
+    border: 1px solid #ff0000;
+    padding:5px;
+    margin:10px;
+}
