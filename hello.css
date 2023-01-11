@@ -19,23 +19,19 @@ p{
     padding:5px;
     margin:10px;
 }
-a:link {
-    color: green;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  a:visited {
+
+    a:visited { 
     color: pink;
     background-color: transparent;
     text-decoration: none;
-  }
-  a:hover {
+    }
+    a:hover {
     color: red;
     background-color: transparent;
     text-decoration: underline;
-  }
-  a:active {
+    }
+    a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
-  }
+    }
