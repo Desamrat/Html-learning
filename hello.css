@@ -19,9 +19,23 @@ p{
     padding:5px;
     margin:10px;
 }
-a{
+a:link {
+    color: green;
+    background-color: transparent;
     text-decoration: none;
-    font-size:20px;
-    color:rgb(151, 0, 252);
-    font-weight: bold;
-}
+  }
+  a:visited {
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
